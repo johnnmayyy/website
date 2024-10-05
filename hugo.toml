@@ -1,0 +1,32 @@
+# NOTES
+# Was having issues as the docs are in YAML and this is in TOML. Need to use YAML to TOML converter
+# and make sure that 'params' was included as the highest level whereas before I was omitting it.
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
+
+
+# Auto-generated when site created. I updated title, theme came from when setting up using echo.
+# baseURL = 'https://example.org/'
+baseURL = 'https://johnnmayyy.github.io/website/'
+languageCode = 'en-us'
+title = 'John May'
+theme = 'hugo-PaperMod'
+
+
+# HOMEPAGE FORMAT
+# This gives a block above the list of Posts so can have some basic info in there.
+[params.homeInfoParams]
+Title = "Hi there and welcome"
+Content = "You'll find my essays and thoughts here. Also follow me on X."
+
+[[params.socialIcons]]
+name = "x"
+url = "https://x.com/johnnmayyy"
+
+
+# POSTS
+# This shows the share icons at the bottom of the post.
+[params]
+ShowShareButtons = true
+ShowBreadCrumbs = true
+ShowReadingTime = true
+
