@@ -1,7 +1,7 @@
 +++
 title = 'Determinism'
 date = 2024-10-05T16:49:58+01:00
-draft = true
+draft = false
 +++
 
 Are you the author or the narrator of your thoughts? It's an obvious one you think as you respond to

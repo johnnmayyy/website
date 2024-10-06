@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>John May</title>
-    <link>http://localhost:1313/website/</link>
+    <link>https://johnnmayyy.github.io/website/</link>
     <description>Recent content on John May</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 16:49:58 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johnnmayyy.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Determinism</title>
-      <link>http://localhost:1313/website/posts/determinism/</link>
+      <link>https://johnnmayyy.github.io/website/posts/determinism/</link>
       <pubDate>Sat, 05 Oct 2024 16:49:58 +0100</pubDate>
-      <guid>http://localhost:1313/website/posts/determinism/</guid>
+      <guid>https://johnnmayyy.github.io/website/posts/determinism/</guid>
       <description>&lt;p&gt;Are you the author or the narrator of your thoughts? It&amp;rsquo;s an obvious one you think as you respond to
 that question in your mind. But why are you thinking about if you&amp;rsquo;re the author or narrator at all?
 Without the prompting of the opening question, would that be something you would be thinking about
