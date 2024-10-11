@@ -1,7 +1,5 @@
 # NOTES
-# Was having issues as the docs are in YAML and this is in TOML. Need to use YAML to TOML converter
-# and make sure that 'params' was included as the highest level whereas before I was omitting it.
-# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
+# Was having issues as the docs are in YAML and this is in TOML. Need to use YAML to TOML converter and make sure that 'params' was included as the highest level whereas before I was omitting it. https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
 
 
 # Auto-generated when site created. I updated title, theme came from when setting up using echo.
@@ -28,5 +26,6 @@ url = "https://x.com/johnnmayyy"
 [params]
 ShowShareButtons = true
 ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowReadingTime = true
-
+env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
